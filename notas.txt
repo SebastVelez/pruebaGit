@@ -1,0 +1,3 @@
+git ---> Controlador de versiones que crea repositorios
+gitbash ---> es un terminal para manejar git(existen otros como CLI, powershell y el terminal)
+github ---> es una pagina que permite guardar esos repositorios en internet.
